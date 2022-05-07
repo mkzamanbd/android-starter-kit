@@ -1,1 +1,1 @@
-# android-simple-login
+# Android starter kit
