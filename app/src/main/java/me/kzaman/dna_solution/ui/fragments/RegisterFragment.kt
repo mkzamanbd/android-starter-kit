@@ -1,4 +1,4 @@
-package me.kzaman.dna_solution.ui.view.fragments
+package me.kzaman.dna_solution.ui.fragments
 
 import android.os.Bundle
 import me.kzaman.dna_solution.R

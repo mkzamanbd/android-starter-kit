@@ -1,4 +1,4 @@
-package me.kzaman.dna_solution.ui.view.activities
+package me.kzaman.dna_solution.ui.activities
 
 import android.os.Bundle
 import androidx.activity.viewModels

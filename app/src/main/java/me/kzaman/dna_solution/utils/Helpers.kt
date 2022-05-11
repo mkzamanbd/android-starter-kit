@@ -26,8 +26,8 @@ import com.google.gson.GsonBuilder
 import me.kzaman.dna_solution.R
 import me.kzaman.dna_solution.data.model.ProductElement
 import me.kzaman.dna_solution.network.Resource
-import me.kzaman.dna_solution.ui.view.activities.AuthActivity
-import me.kzaman.dna_solution.ui.view.activities.DashboardActivity
+import me.kzaman.dna_solution.ui.activities.AuthActivity
+import me.kzaman.dna_solution.ui.activities.DashboardActivity
 
 
 fun View.visible(isVisible: Boolean) {

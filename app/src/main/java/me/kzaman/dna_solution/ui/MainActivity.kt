@@ -1,4 +1,4 @@
-package me.kzaman.dna_solution.ui.view
+package me.kzaman.dna_solution.ui
 
 import android.os.Bundle
 import android.os.Handler
@@ -9,8 +9,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.motion.widget.MotionLayout
 import me.kzaman.dna_solution.R
 import me.kzaman.dna_solution.database.SharedPreferenceManager
-import me.kzaman.dna_solution.ui.view.activities.AuthActivity
-import me.kzaman.dna_solution.ui.view.activities.DashboardActivity
+import me.kzaman.dna_solution.ui.activities.AuthActivity
+import me.kzaman.dna_solution.ui.activities.DashboardActivity
 import me.kzaman.dna_solution.utils.startNewActivityAnimation
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

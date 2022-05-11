@@ -1,4 +1,4 @@
-package me.kzaman.dna_solution.ui.view.fragments
+package me.kzaman.dna_solution.ui.fragments
 
 import android.os.Bundle
 import android.util.Log
@@ -11,7 +11,7 @@ import me.kzaman.dna_solution.base.BaseFragment
 import me.kzaman.dna_solution.database.SharedPreferenceManager
 import me.kzaman.dna_solution.databinding.FragmentLoginBinding
 import me.kzaman.dna_solution.network.Resource
-import me.kzaman.dna_solution.ui.view.activities.DashboardActivity
+import me.kzaman.dna_solution.ui.activities.DashboardActivity
 import me.kzaman.dna_solution.ui.viewModel.AuthViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import me.kzaman.dna_solution.utils.LoadingUtils

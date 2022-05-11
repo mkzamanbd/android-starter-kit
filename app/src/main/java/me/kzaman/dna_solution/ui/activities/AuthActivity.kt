@@ -1,4 +1,4 @@
-package me.kzaman.dna_solution.ui.view.activities
+package me.kzaman.dna_solution.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
